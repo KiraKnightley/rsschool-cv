@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://KiraKnightley.github.io/rsschool-cv/cv
