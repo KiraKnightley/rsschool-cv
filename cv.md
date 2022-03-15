@@ -1,4 +1,4 @@
-# RSSCHOOL-CV
+## [rsschool-cv](https://https://github.com/KiraKnightley/rsschool-cv/)
 # Savin Kirill
 ## Contact info
     location: Russia, Kazan
@@ -18,7 +18,7 @@ My goal is to become a professional in front-end development. I chose this direc
 * Git
 * Style code on BEM
 
-## Code example JS. _function for output numbers fibonacci_:
+## Code example JS. _Function for output numbers fibonacci:_
 
 ``` JavaScript
 const fibonacci = function () {
@@ -40,10 +40,18 @@ const fibonacci = function () {
 ```
 
 ## Experience 
-Was trained in Innopolis on the basics of Front-end development. Took intensive courses at the glo academy in HTML and CSS.
+Front-end developer in Innopolis.
+- Developed a web application for an online store using React.js.
+- Worked with libraries such as redux, router, UI.
+- Confidently used hooks and props.
+- Reused react components.
+- Set up website logic.
 
 ## Education
-Higher education: Kazan University KNITU.
+* Higher education: Kazan University KNITU.
+* Сourses:
+    - **Innopolis.** The basics of Front-end development.
+    - **Glo academy.** landing page development intensives.
 
 ## Languages
 * Russian - native
