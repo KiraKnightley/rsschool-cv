@@ -40,13 +40,13 @@ const fibonacci = function () {
 ```
 
 ## Experience 
-###### Front-end developer in Innopolis.
+#### Front-end developer in Innopolis.
 - Developed a web application for an online store using React.js.
 - Worked with libraries such as redux, router, UI.
 - Confidently used hooks and props.
 - Reused react components.
 - Set up website logic.
-###### My project: online game store. Repository https://github.com/KiraKnightley/game_store
+#### My project: online game store. Repository https://github.com/KiraKnightley/game_store
 
 ## Education
 * Higher education: Kazan University KNITU.
