@@ -46,6 +46,7 @@ Front-end developer in Innopolis.
 - Confidently used hooks and props.
 - Reused react components.
 - Set up website logic.
+My project: online game store. Repository https://github.com/KiraKnightley/game_store
 
 ## Education
 * Higher education: Kazan University KNITU.
