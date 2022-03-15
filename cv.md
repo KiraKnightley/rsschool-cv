@@ -1,11 +1,11 @@
-## [rsschool-cv](https://https://github.com/KiraKnightley/rsschool-cv/)
+## [rsschool-cv](https://github.com/KiraKnightley/rsschool-cv/)
 # Savin Kirill
 ## Contact info
-    location: Russia, Kazan
-    phone: +79393686906
-    telegram: @Knightley_Kira
-    mail: kirill.edge.666@gmail.com
-    discord: Knightley#2388
+location: Russia, Kazan
+phone: +79393686906
+telegram: @Knightley_Kira
+mail: kirill.edge.666@gmail.com
+discord: Knightley#2388
 
 ## About Me
 My goal is to become a professional in front-end development. I chose this direction in order to increase my income level. My strengths: hardworking, punctual, responsible, trainable, sociable, I have organizational skills. Since school, IT has been interesting for me. Participated in various Olympiads, created simple programs in groups of several people. I want to develop myself well and work on interesting projects.
