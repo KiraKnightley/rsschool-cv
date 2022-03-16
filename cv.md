@@ -1,4 +1,4 @@
-## [rsschool-cv](https://github.com/KiraKnightley/rsschool-cv/)
+## [rsschool-cv](https://github.com/KiraKnightley/rsschool-cv/index.html)
 # Savin Kirill
 ## Contact info
     location: Russia, Kazan
