@@ -1,1 +1,1 @@
-# https://KiraKnightley.github.io/rsschool-cv/cv
+# https://kiraknightley.github.io/rsschool-cv/
